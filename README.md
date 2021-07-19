@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**AdonisUchoa/AdonisUchoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Adonis Uchoa
+<a href="https://www.linkedin.com/in/adonis-uchoa-715ba41a4/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/adonis_uchoa/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="adonisucho@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
-Here are some ideas to get you started:
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends
+I'm Adonis Uchoa.<br>
+I'm a developer 💻 ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>🚀 ┇I’m currently focused on evolution </li>
+  <li>💜 ┇Flutter
+  <li>🥋 ┇continuously studying to achieve my goals.</li>
+  <li>😍 ┇Passionate about , programming and finance;</li>
+  <li>💬 ┇Ask me about: Tech, Games, Movies, Series and stock Exchange</li>
+</ul>
