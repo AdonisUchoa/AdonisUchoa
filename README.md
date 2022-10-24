@@ -10,7 +10,7 @@ I'm a developer 💻 ✨
 
 <ul>
   <li>🚀 ┇I’m currently focused on evolution </li>
-  <li>💜 ┇Flutter
+  <li>💜 ┇Flutter | Javascript | Java | Golang | Pentest
   <li>🥋 ┇continuously studying to achieve my goals.</li>
   <li>😍 ┇Passionate about , programming and finance;</li>
   <li>💬 ┇Ask me about: Tech, Games, Movies, Series and stock Exchange</li>
