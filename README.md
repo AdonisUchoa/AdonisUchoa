@@ -6,7 +6,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends
 I'm Adonis Uchoa.<br>
-I'm a developer 💻 ✨
+I'm a developer & Pentester💻 ✨
 
 <ul>
   <li>🚀 ┇I’m currently focused on evolution </li>
